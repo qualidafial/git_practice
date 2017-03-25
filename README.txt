@@ -1,8 +1,9 @@
 This is a sample file
 
-Foo
-Bar
-Baz
+Roses are red
+Violets are blue
+I know the best words
+Riboflavin
 
 stuff and junk
 
